@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+catalogapp.db
+client_secrets.json
